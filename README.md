@@ -14,3 +14,9 @@ Using JavaScript, Nodes.js, express, ReactJS, React-Native among others I was ab
 ## Demonstration/Demonstração
 
 ![Gif Be The Hero](https://github.com/Rodrigo001-de/Be-The-Hero/blob/master/Be-The-Hero.gif)
+
+## Aviso mobile/ Mobile notice
+
+Infelizmente eu não consegui ainda fazer uma demonstração da versão mobile do App.
+
+Unfortunately I have not yet managed to demonstrate the mobile version of the App.
